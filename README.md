@@ -10,7 +10,7 @@ We provide this package to make the default make commands compatible.
 You can install the package via composer:
 
 ```
-composer require engine45/artisan-make-commands
+composer require engine45/artisan-maker-commands
 ```
 
 The package will automatically register itself. 
