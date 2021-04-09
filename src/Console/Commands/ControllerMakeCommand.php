@@ -15,7 +15,6 @@ use Symfony\Component\Console\Input\InputOption;
  */
 class ControllerMakeCommand extends ControllerMakeCommandAlias
 {
-
     /**
      * PolicyMakeCommand constructor.
      */

@@ -7,7 +7,6 @@ namespace Engine45\MakerCommands\Console\Commands;
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Foundation\Console\RuleMakeCommand as RuleArtisanCommand;
 use Symfony\Component\Console\Input\InputOption;
-use Symfony\Component\Console\InputInputOption;
 
 /**
  * Class RuleMakeCommand

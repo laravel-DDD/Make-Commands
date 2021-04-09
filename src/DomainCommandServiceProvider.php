@@ -26,9 +26,8 @@ use Engine45\MakerCommands\Console\Commands\ResourceMakeCommand;
 use Engine45\MakerCommands\Console\Commands\RuleMakeCommand;
 use Engine45\MakerCommands\Console\Commands\SeederMakeCommand;
 use Engine45\MakerCommands\Console\Commands\StubsPublishCommand;
-use Illuminate\Support\ServiceProvider;
 use Illuminate\Contracts\Support\DeferrableProvider;
-
+use Illuminate\Support\ServiceProvider;
 
 /**
  * Class DomainCommandServiceProvider
@@ -103,7 +102,7 @@ class DomainCommandServiceProvider extends ServiceProvider implements Deferrable
             'command.request.make',
             'command.resource.make',
             'command.rule.make',
-            'command.seeder.make'
+            'command.seeder.make',
         ];
     }
 }

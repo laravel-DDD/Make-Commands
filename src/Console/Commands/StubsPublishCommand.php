@@ -19,7 +19,7 @@ class StubsPublishCommand extends Command
 {
     use ConfirmableTrait;
 
-    protected $signature = 'engine45-stub:publish {--force : Overwirte any existing files}';
+    protected $signature = 'engine45-stub:publish {--force : Overwrite any existing files}';
 
     protected $description = 'Publish all opinionated stubs that are available for customization';
 
