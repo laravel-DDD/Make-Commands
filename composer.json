@@ -1,5 +1,5 @@
 {
-  "name": "engine45/artisan-make-commands",
+  "name": "engine45/artisan",
   "description": "Overriden Artisan make commands to utilize our Laravel Domain Driven Design starter.",
   "license": "MIT",
   "authors": [
