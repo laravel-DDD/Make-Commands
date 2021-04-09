@@ -1,0 +1,19 @@
+
+<?php
+
+namespace {{ namespace }};
+
+use Illuminate\Http\Request;
+
+/**
+ * Class {{ class }}
+ *
+ * @package {{ namespace }}
+ */
+class {{ class }}
+{
+    public function __invoke(Request $request)
+    {
+        //
+    }
+}

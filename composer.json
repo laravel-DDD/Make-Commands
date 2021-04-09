@@ -5,7 +5,7 @@
   "authors": [
     {
       "name": "Tim Joosten",
-      "email": "Topairy@gmail.co=",
+      "email": "Topairy@gmail.com",
       "role": "developer"
     }
   ],
@@ -15,8 +15,8 @@
   },
   "require-dev": {
     "roave/security-advisories": "dev-latest",
-    "orchestra/testbench": "^5.0",
-    "phpunit/phpunit": "^^9.0"
+    "orchestra/testbench": "^6.0",
+    "phpunit/phpunit": "^9.0"
   },
   "autoload": {
     "psr-4": {
