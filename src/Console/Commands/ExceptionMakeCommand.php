@@ -15,7 +15,6 @@ use Symfony\Component\Console\Input\InputOption;
  */
 class ExceptionMakeCommand extends ExceptionArtisanCommand
 {
-
     /**
      * PolicyMakeCommand constructor.
      */

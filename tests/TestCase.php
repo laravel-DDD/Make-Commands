@@ -3,7 +3,6 @@
 namespace Engine45\MakerCommands\Tests;
 
 use Engine45\MakerCommands\DomainCommandServiceProvider;
-use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
 
 class TestCase extends Orchestra

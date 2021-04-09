@@ -70,5 +70,4 @@ class MailMakeCommand extends MailArtisanCommand
             ['domain', 'd', InputOption::VALUE_OPTIONAL, 'Set the domain name'],
         ]);
     }
-
 }
